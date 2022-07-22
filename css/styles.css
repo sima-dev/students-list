@@ -1,0 +1,11 @@
+.sort {
+  cursor: pointer;
+}
+
+.attention {
+  color: red;
+}
+
+.input-attention {
+  outline: 1px solid red;
+}
